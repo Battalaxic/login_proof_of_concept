@@ -1,0 +1,1 @@
+{"tester": {"salt": "5p0Qy5UANUsjP2NLnGQ9//AHeRnZ4e0a0Cl0TeWMgb0=", "key": "oOOAOIN2sWt1iiP8y2Tkhzh680WXHOk2RL36hiYQXpE="}, "John": {"salt": "x0cVvQYap/wZKFdauVDSK/1XqATVCsSYH/XJVWNVLdw=", "key": "mG/M8/CikIXUojHVvSkTz7QJsquZgWCTGp9UOr+MWGA="}}
